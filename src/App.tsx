@@ -1,3 +1,4 @@
+import React from 'react';
 import TiptapEditor from './components/tiptap-editor';
 
 function App() {
